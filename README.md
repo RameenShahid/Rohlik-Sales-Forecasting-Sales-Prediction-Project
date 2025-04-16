@@ -1,4 +1,4 @@
-# Rohlik-Sales-Forecasting-Sales-Prediction-Project
+# Optimizing Sales Prediction for Rohlik with Machine Learning and Weighted MAE Evaluation
 ### Libraries Used
 
 #### Data Handling & Computation:
